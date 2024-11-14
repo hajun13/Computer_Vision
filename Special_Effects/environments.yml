@@ -1,7 +1,7 @@
 name: video_special_effect
 dependencies:
   - python=3.13
-  - opencv=4.5*
+  - opencv=4.10
   - pyqt=5.15*
   - numpy
   - pip:
