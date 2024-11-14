@@ -1,0 +1,11 @@
+name: panorama
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - opencv=4.5*
+  - pyqt=5.15*
+  - pip
+  - pip:
+      - opencv-python
+      - PyQt5

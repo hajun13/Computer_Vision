@@ -1,0 +1,10 @@
+
+[project]
+name = "panorama_video_creator"
+version = "0.1.0"
+description = "A tool for creating panorama videos using OpenCV and PyQt5."
+readme = "README.md"
+authors = [
+    {name="Hajun Jeong", email="chhajun01@naver.com"}
+]
+keywords = ["panorama", "video", "OpenCV", "PyQt5"]

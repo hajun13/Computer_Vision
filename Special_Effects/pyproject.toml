@@ -1,0 +1,9 @@
+[project]
+name = "video_special_effect"
+version = "0.1.0"
+description = "A PyQt5 application for applying real-time special effects to webcam video using OpenCV."
+readme = "README.md"
+authors = [
+    {name="Hajun Jeong", email="chhajun01@naver.com"}
+]
+keywords = ["video", "special effects", "OpenCV", "PyQt5"]

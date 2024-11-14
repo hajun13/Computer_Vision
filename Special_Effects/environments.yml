@@ -1,0 +1,9 @@
+name: video_special_effect
+dependencies:
+  - python=3.13
+  - opencv=4.5*
+  - pyqt=5.15*
+  - numpy
+  - pip:
+      - pyqt5
+      - opencv-python-headless  # 만약 GUI 없이 OpenCV 사용 시 필요
