@@ -4,6 +4,7 @@ dependencies:
   - opencv=4.10
   - pyqt=5.15*
   - numpy
+  - opencv-python-headless
   - pip:
       - pyqt5
-      - opencv-python-headless  # 만약 GUI 없이 OpenCV 사용 시 필요
+
