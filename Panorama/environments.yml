@@ -3,9 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - opencv=4.10*
+  - opencv=4.5*
   - pyqt=5.15*
+  - numpy
   - pip
-  - pip:
-      - opencv-python
-      - PyQt5
