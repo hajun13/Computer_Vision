@@ -1,10 +1,13 @@
 name: video_special_effect
+channels:
+  - conda-forge
+  - defaults
 dependencies:
   - python=3.10
-  - opencv=4.10
+  - opencv=4.5*
   - pyqt=5.15*
   - numpy
-  - opencv-python-headless
+  - pip
   - pip:
       - pyqt5
 
