@@ -57,7 +57,7 @@
 ### 종료
 1. 프로그램을 종료하고 싶다면 **나가기** 버튼을 클릭하여 모든 창과 자원을 해제하고 종료합니다.
 
-### exe파일 
+## exe파일 
 - 파일 크기가 너무커 이 링크로 들어가면 exe파일이 존재합니다
 - https://drive.google.com/file/d/1aDayhaqlHoRPdUrVxz8cLTi_aM8W2WfH/view?usp=drive_link
 
