@@ -49,3 +49,7 @@
 1. **자동 수집 시작** 버튼을 클릭하여 자동 촬영을 시작합니다.
 2. 2초 간격으로 자동으로 이미지를 수집하며, 수집된 이미지의 개수가 상단 라벨에 표시됩니다.
 3. 자동 촬영을 중지하려면 다시 **자동 수집 중지** 버튼을 클릭합니다.
+
+## exe파일 
+- 이 링크로 들어가면 exe파일이 존재합니다
+- https://drive.google.com/file/d/1XRaba4ns0tXub2MTl-KvLHjgrS7IGGiY/view?usp=drive_link
