@@ -59,5 +59,5 @@
 
 ### exe파일 
 - 파일 크기가 너무커 이 링크로 들어가면 exe파일이 존재합니다
-https://drive.google.com/file/d/1aDayhaqlHoRPdUrVxz8cLTi_aM8W2WfH/view?usp=drive_link
+- https://drive.google.com/file/d/1aDayhaqlHoRPdUrVxz8cLTi_aM8W2WfH/view?usp=drive_link
 
